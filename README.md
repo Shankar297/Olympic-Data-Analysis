@@ -39,8 +39,8 @@ User Interface & deployment :  Created an UI that shows the output.
    7. plotly
 
 ## Dataset
-[athlete_events Download here](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/athlete_events.csv)
-[, noc_regions Download here](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/noc_regions.csv)
+[athlete_events](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/athlete_events.csv), 
+[noc_regions](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/noc_regions.csv)
 
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
