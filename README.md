@@ -40,12 +40,14 @@ User Interface & deployment :  Created an UI that shows the output.
 
 ## Dataset
 [athlete_events Download here](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/athlete_events.csv)
-[noc_regions Download here](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/noc_regions.csv)
+[, noc_regions Download here](https://github.com/Shankar297/Olympic-Data-Analysis/blob/main/noc_regions.csv)
 
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
 git clone https://github.com/Shankar297/Olympic-Data-Analysis.git
+```
+```bash
 pip install -r requirements.txt
 ```
 If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stable/installation/)
