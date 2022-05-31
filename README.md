@@ -13,6 +13,7 @@
 
 ## Demo
 Link: [https://olympic-analysis-new.herokuapp.com/](https://olympic-analysis-new.herokuapp.com/)
+<img width="960" alt="olympic" src="https://user-images.githubusercontent.com/76767335/171232357-2d9a1ad1-af9d-48cf-8b6e-bafaa498f4cd.png">
 
 
 
